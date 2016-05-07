@@ -1,10 +1,10 @@
 Cryptograhpy with Java
 ======================
-Secure Client - Server Communication
+Secure Client - Server communication
 ----------------------
 
-This project uses **Bouncycastle Provider**
-Before Running replace *Security Policy Files* with *Java Cryptography Extension* so you are able to use large encryption keys
+This project uses **Bouncycastle Provider**.
+Before Running replace *Security Policy Files* with *Java Cryptography Extension* in JRE Path so you are able to use large encryption keys
 
 This Project includes:
 ----------------------
@@ -14,5 +14,5 @@ This Project includes:
 
 **Screenshots of project running, wireshark captures to test the connection and  more info in readme.pdf**
 ---------------------
-* ^in greek^ *
+*^in greek^*
 

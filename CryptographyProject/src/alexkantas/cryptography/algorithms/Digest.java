@@ -12,7 +12,7 @@ public class Digest {
     private MessageDigest message;
 
     public Digest() {
-        setMessageAlgorithm("MD5");
+        setMessageAlgorithm("SHA512");
     }
 
     /**
@@ -40,7 +40,7 @@ public class Digest {
      *
      * @param digest_algorithm
      */
-    public void setMessageAlgorithm(String digest_algorithm) {
+    public final void setMessageAlgorithm(String digest_algorithm) {
 
         try {
             message = MessageDigest.getInstance(digest_algorithm);
