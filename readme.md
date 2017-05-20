@@ -12,9 +12,12 @@ This Project includes:
 - Classes to perform AES , RSA encryprion and calculate digest *(AES.java,RSA.java,Digest.java)*
 - Client - Server app with symmetric encryption *(ServerAES.java,ClientAES.java)*
 
-###Screenshots of project running, wireshark captures to test the connection and  more info in [readme.pdf](https://github.com/alexzzzboom/Cryptography/blob/master/ReadMe.pdf)
+Read more:
+----------------------
 
-_^in greek^_
+More info in [readme.pdf](https://github.com/alexzzzboom/Cryptography/blob/master/ReadMe.pdf) _(in greek)_:
 
-_PS: The code in this project a little bit sloppy and not representive_
+- Screenshots of project running 
+- Wireshark captures to test the connection 
+- Deep look into classes
 
